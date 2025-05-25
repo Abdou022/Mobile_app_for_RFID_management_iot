@@ -1,6 +1,6 @@
-# iot
+# Safe Pass
 
-A new Flutter project.
+A Flutter project for RFID scans and Firebase
 
 ## Getting Started
 
